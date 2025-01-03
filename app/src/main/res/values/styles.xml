@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CalculatorButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:layout_margin">4dp</item>
+        <item name="android:textSize">24sp</item>
+        <item name="cornerRadius">24dp</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:stateListAnimator">@null</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+    </style>
+
+    <style name="CalculatorButton.Number">
+        <item name="backgroundTint">@color/button_number</item>
+        <item name="rippleColor">@color/ripple_number</item>
+    </style>
+
+    <style name="CalculatorButton.Operation">
+        <item name="backgroundTint">@color/button_operation</item>
+        <item name="rippleColor">@color/ripple_operation</item>
+        <item name="android:textColor">@color/text_operation</item>
+    </style>
+
+    <style name="CalculatorButton.Special">
+        <item name="backgroundTint">@color/button_special</item>
+        <item name="rippleColor">@color/ripple_special</item>
+        <item name="android:textColor">@color/text_special</item>
+    </style>
+
+    <style name="CalculatorButton.Equals">
+        <item name="backgroundTint">@color/button_equals</item>
+        <item name="rippleColor">@color/ripple_equals</item>
+        <item name="android:textColor">@color/text_equals</item>
+    </style>
+</resources> 

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Theme Colors -->
+    <color name="background">#1A1A2E</color>
+    <color name="surface">#16213E</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="text_operation">#00FF9F</color>
+    <color name="text_special">#FF0055</color>
+    <color name="text_equals">#FFFFFF</color>
+    
+    <!-- Button Colors -->
+    <color name="button_number">#2A2A42</color>
+    <color name="button_operation">#1F4068</color>
+    <color name="button_special">#3A1F68</color>
+    <color name="button_equals">#00B4D8</color>
+    
+    <!-- Ripple Colors -->
+    <color name="ripple_number">#3F3F57</color>
+    <color name="ripple_operation">#34557D</color>
+    <color name="ripple_special">#4F347D</color>
+    <color name="ripple_equals">#15DEED</color>
+    
+    <!-- Status Bar Colors -->
+    <color name="status_bar">#151525</color>
+    <color name="navigation_bar">#151525</color>
+</resources>
