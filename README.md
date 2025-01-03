@@ -5,7 +5,7 @@
 * [Hakkında](#hakkında)
 * [Özellikler](#özellikler)
 * [Ekran Görüntüsü](#ekran-görüntüsü)
-* [Güvenlik](#güvenlik)
+
 
 ## Hakkında
 
