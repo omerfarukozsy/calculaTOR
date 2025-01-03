@@ -20,13 +20,9 @@ calculaTOR, modern ve kullanıcı dostu bir hesap makinesi uygulamasıdır. Teme
 - **[LiveData]()**: Veri değişikliklerini gözlemlemek ve UI'ı güncellemek için LiveData kullanımı
 - **[ViewBinding]()**: XML layout elemanlarına erişmek için findViewById yerine ViewBinding kullanımı
 - **[Room Database]()**: Yerel veritabanı işlemleri için Room kullanımı
-- **[Dark Mode]()**: Karanlık tema desteği
 - **[Material Design]()**: Modern ve şık kullanıcı arayüzü
 
 ## Ekran Görüntüsü
 
 <img src="https://github.com/user-attachments/assets/24e0b5e5-5dd9-4fa8-9913-820ccd269d3b" alt="sc1" width="250">
 
-## 🔒 Güvenlik
-- Hassas veriler güvenli bir şekilde saklanır
-- Tüm hesaplamalar cihaz üzerinde yapılır, internet bağlantısı gerekmez
