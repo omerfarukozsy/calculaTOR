@@ -25,7 +25,7 @@ calculaTOR, modern ve kullanıcı dostu bir hesap makinesi uygulamasıdır. Teme
 
 ## Ekran Görüntüsü
 
-<img src="./screenshot/sc1.png" alt="Uygulama" width="250"/>
+<img src="https://github.com/user-attachments/assets/24e0b5e5-5dd9-4fa8-9913-820ccd269d3b" alt="sc1" width="250">
 
 ## 🔒 Güvenlik
 - Hassas veriler güvenli bir şekilde saklanır
